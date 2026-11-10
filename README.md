@@ -101,23 +101,7 @@ me = Developer()
 [EXPLORING]    Open-source AI models
 ```
 
-## `$ ./github-stats.sh`
 
-<div align="center">
-
-<a href="https://github.com/ShivVk18">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShivVk18&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-</a>
-
-<a href="https://github.com/ShivVk18">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivVk18&layout=compact&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/ShivVk18">
-  <img width="65%" src="https://streak-stats.demolab.com?user=ShivVk18&theme=github-dark-blue&hide_border=true" />
-</a>
-
-</div>
 
 ## `$ cat philosophy.txt`
 
